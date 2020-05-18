@@ -1,0 +1,58 @@
+{
+  "tabData": [
+    {
+      "tabId": 1,
+      "title": "Gameplay",
+      "content": "This game is an action combat MMORPG where skill, timing and aim truly matter. Players are able to use abilities regardless of target location so positioning is crucial. Advanced enemy AI deliver a much more intense and engaging combat experiance. This game also has a large open world, PVE, PVP and a questing system similar to what you would expect from a sandbox MMO. With a continuing story, this game has over 80+ stunningly beautiful zones to explore and the lore continues in the second expansion package. There are playable thirteen classes you can choose from."
+    },
+    {
+      "tabId": 2,
+      "title": "Champions",
+      "content": "There are 12 playable classes in the game. All classes from game release, which include Archer, Berserker, Lancer, Mystic, Priest, Sorcerer, Slayer and Warrior are available for any race and both genders. Some newer classes are gender and/or race locked, including Reaper, Gunner, Brawler, Ninja and Valkyrie. Each class is designed to work both solo and in a group, but there are four main character focuses: tank, melee damage, ranged damage, and healing. When you team up, your character will be more effective as your teammates’ strengths enhance your own."
+    },
+    {
+      "tabId": 3,
+      "title": "Skills",
+      "content": "What made this game special from previous games is its action-combat battle system; player must aim their combat skills to hit a target. Also player can utilize defensive skills such as dodges or blocking attacks, and positioning to gain the upper hand in battle. This style is described as a hybrid of RPG and FPS (first person shooter) combat. Although this game's combat might also be said to take elements from Beat 'em up games. Iframes (invulnerability frames) are important concept adopted from these games. Iframe can make player invulnerable damage up to two seconds, which allows them dodge or avoid special attacks."
+    }
+  ],
+  "faqData": [
+    {
+      "id": 1,
+      "question": "Where can I play the game?",
+      "answer": "The game is free to play and all you need is to create an account in our website, and install our game executable in you computer. After installing the game exetable the game will ask you to enter the account credentials you created earlies. That is all."
+    },
+    {
+      "id": 2,
+      "question": "How big is the online game community?",
+      "answer": "The game community spans over 10 million players, spread out on 6 continents: Africa, America, Antarctica, Asia, Australia/Oceania, and Europe. Each of the continents is a separate region and you can interact only with players of the same region. You can choose the game region when you create your account. It is advisable to choose the region where you physically reside for performance reasons."
+    },
+    {
+      "id": 3,
+      "question": "What platforms are supported?",
+      "answer": "Currenly we only support PC, but we have plans to extend to PS4 and XBox, so these platforms interest you, keep an eye on the accouncement page."
+    }
+  ],
+  "navbarLinks": [
+    {
+      "id": 1,
+      "label": "Home",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "label": "Settings",
+      "link": "/settings"
+    },
+    {
+      "id": 3,
+      "label": "About",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "label": "Contact",
+      "link": "#"
+    }
+  ]
+}
